@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin\obj\Debug\
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\
 PiClock_Admin
 none
 false
 DEBUG;TRACE
-C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin\App.xaml
-4-325815806
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\App.xaml
+82055902837
 
-14-1376282908
-13738642453
-MainWindow.xaml;Punches.xaml;UserManagement.xaml;UserManagement_AddUser.xaml;
+30-336913954
+14-1581250518
+MainWindow.xaml;Views\ApplicationSettingsView.xaml;Views\DbConnectionView.xaml;Views\EmployeeConfigurationView.xaml;Views\HomeView.xaml;Views\JobConfigurationView.xaml;Views\LoginView.xaml;Views\ReportsView.xaml;
 
-False
+True
 

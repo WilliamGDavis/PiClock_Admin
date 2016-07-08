@@ -24,16 +24,5 @@ namespace PiClock_Admin
         {
             InitializeComponent();
         }
-
-        private void button_Users_Click(object sender, RoutedEventArgs e)
-        {
-            UserManagement um = new UserManagement();
-            um.ShowDialog();
-        }
-
-        private void button_Reports_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }

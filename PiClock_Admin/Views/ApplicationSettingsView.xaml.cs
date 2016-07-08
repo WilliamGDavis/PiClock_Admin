@@ -10,29 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PiClock_Admin
+namespace PiClock_Admin.Views
 {
     /// <summary>
-    /// Interaction logic for UserManagement.xaml
+    /// Interaction logic for ApplicationSettingsView.xaml
     /// </summary>
-    public partial class UserManagement : Window
+    public partial class ApplicationSettingsView : UserControl
     {
-        public UserManagement()
+        public ApplicationSettingsView()
         {
             InitializeComponent();
-        }
-
-        private void button_AddUser_Click(object sender, RoutedEventArgs e)
-        {
-            UserManagement_Adduser um_au = new UserManagement_Adduser();
-            um_au.ShowDialog();
-        }
-
-        private void button_EditUser_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

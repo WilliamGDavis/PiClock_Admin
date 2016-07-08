@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PiClock_Admin
+namespace PiClock_Admin.Views
 {
     /// <summary>
-    /// Interaction logic for Punches.xaml
+    /// Interaction logic for HomeView.xaml
     /// </summary>
-    public partial class Punches : Window
+    public partial class HomeView : UserControl
     {
-        public Punches()
+        public HomeView()
         {
             InitializeComponent();
         }

@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="PiClock_Admin.Views.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PiClock_Admin.Views"
+             xmlns:v="clr-namespace:PiClock_Admin.Views"
+             xmlns:vm="clr-namespace:PiClock_Admin.ViewModels"
+             xmlns:m="clr-namespace:PiClock_Admin.Models"
+             mc:Ignorable="d" 
+             d:DesignHeight="960" d:DesignWidth="1440">
+    <UserControl.DataContext>
+        <vm:LoginViewModel />
+    </UserControl.DataContext>
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Height="320" Width="480">
+            <StackPanel>
+                <StackPanel>
+                    <Label x:Name="label_Username" 
+                           Content="Username"
+                           HorizontalAlignment="Left" VerticalAlignment="Top"
+                           />
+                    <TextBox x:Name="textbox_Username"
+                             TextAlignment="Center"
+                             />
+                </StackPanel>
+                <StackPanel>
+                    <Label x:Name="label_Password"
+                           Content="Password"
+                           HorizontalAlignment="Left" VerticalAlignment="Top"
+                           />
+                    <TextBox x:Name="textbox_Password"
+                             TextAlignment="Center"
+                             />
+                </StackPanel>
+                <StackPanel>
+                    <Button x:Name="button_Login"
+                            Content="Login"
+                            Command="{Binding Login}" CommandParameter="HomeView"
+                        />
+                </StackPanel>
+            </StackPanel>
+            <Button x:Name="button" 
+                    Content="Database Configuration"
+                    Command="{Binding SwitchView}" CommandParameter="DbConnectionView"
+                    />
+        </StackPanel>
+    </Grid>
+</UserControl>

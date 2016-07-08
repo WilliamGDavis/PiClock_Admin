@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PiClock_Admin.classes
+namespace PiClock_Admin.ViewModels
 {
-    class User
+    class MainViewModel : BaseViewModel
     {
-
     }
 }

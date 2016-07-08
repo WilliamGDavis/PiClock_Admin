@@ -4,11 +4,22 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PiClock_Admin"
+        xmlns:v="clr-namespace:PiClock_Admin.Views"
+        xmlns:vm="clr-namespace:PiClock_Admin.ViewModels"
+        xmlns:m="clr-namespace:PiClock_Admin.Models"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Button x:Name="button_Users" Content="Users" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="79" Height="29" Click="button_Users_Click"/>
-        <Button x:Name="button_Reports" Content="Reports" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="79" Height="29" Click="button_Reports_Click"/>
+        Title="PiClock Administration" Height="960" Width="1440" WindowStartupLocation="CenterScreen">
 
-    </Grid>
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type m:LoginModel}" />
+        <DataTemplate DataType="{x:Type m:HomeModel}" />
+    </Window.Resources>
+    
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+    
+    <DockPanel>
+        <UserControl Content="{Binding PageSwitcher.CurrentView, UpdateSourceTrigger=PropertyChanged}" />
+    </DockPanel>
 </Window>

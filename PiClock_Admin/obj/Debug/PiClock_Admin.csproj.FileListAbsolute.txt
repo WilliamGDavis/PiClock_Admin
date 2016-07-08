@@ -16,3 +16,35 @@ C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin
 C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.pdb
 C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin\obj\Debug\UserManagement_Adduser.g.cs
 C:\Users\Owner\documents\visual studio 2015\Projects\PiClock_Admin\PiClock_Admin\obj\Debug\UserManagement_Adduser.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\PiClock_Admin.exe.config
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.exe
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.pdb
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin_MarkupCompile.cache
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin_MarkupCompile.lref
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\PiClock_Admin.exe
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\PiClock_Admin.pdb
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.g.resources
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.Properties.Resources.resources
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\PiClock_Admin.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\LoginView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\LoginView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\HomeView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\HomeView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\EmployeeConfigurationView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\EmployeeConfigurationView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\ApplicationSettingsView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\ReportsView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\ApplicationSettingsView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\ReportsView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\JobConfigurationView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\JobConfigurationView.baml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\DbConnectionView.g.cs
+C:\Users\Owner\Documents\GitHub\PiClock_Admin\PiClock_Admin\obj\Debug\Views\DbConnectionView.baml

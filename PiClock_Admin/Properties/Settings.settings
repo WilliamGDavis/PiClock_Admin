@@ -1,7 +1,27 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PiClock_Admin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiServerAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">willdavis.net</Value>
+    </Setting>
+    <Setting Name="ApiServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">443</Value>
+    </Setting>
+    <Setting Name="ApiDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PiClock_WebService/api.php</Value>
+    </Setting>
+    <Setting Name="ApiUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user</Value>
+    </Setting>
+    <Setting Name="ApiPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pass</Value>
+    </Setting>
+    <Setting Name="UriPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://willdavis.net:443/PiClock_WebService/api.php</Value>
+    </Setting>
+    <Setting Name="UseSsl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">s</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
